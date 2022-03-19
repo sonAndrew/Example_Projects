@@ -1,0 +1,1 @@
+This is a collection of example projects learning Python.
